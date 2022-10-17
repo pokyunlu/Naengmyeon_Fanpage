@@ -1,0 +1,60 @@
+body {
+    background-color: #FFF8EA;
+    font-family: 'Helvetica Neue', 'Helvetica', 'Apple SD Gothic Neo', 'NanumBarunGothic', 'Malgun Gothic', dotum, 'Lucida Grande', sans-serif;
+
+}
+
+h1 {
+    color: #815B5B;
+    font-size: 90px;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+
+
+}
+h3 {
+    color: #815B5B;
+    font-size: 30px;
+    text-align: center;
+}
+
+table {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+
+
+
+}
+hr {
+    border-color: #815B5B;
+    border-style: dotted none none;
+    border-width: 6px;
+    width: 70px;
+}
+
+br{
+	display: block;
+    /* jetzt evtl. Größenangaben, z. B. height */
+	height: 200px;    
+}
+
+img {
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;    
+    
+
+}
+
+p {
+    color: #815B5B;
+    text-align: center;
+
+
+
+}
